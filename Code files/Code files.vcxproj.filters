@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Week 1">
+      <UniqueIdentifier>{0bc34685-f352-4bb4-b7e4-3600c77bf3f0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Week 2">
+      <UniqueIdentifier>{6dbf1084-6651-44c3-a12d-2311e706cae8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Week 3">
+      <UniqueIdentifier>{f18a58bd-474b-4d87-8f5a-1d2d7c531315}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Week 4">
+      <UniqueIdentifier>{2b9cf43e-08be-41c4-bd33-deaabb58291a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Week 5">
+      <UniqueIdentifier>{8834b870-6643-4cb3-96ae-a8cc3d13e634}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Week 6">
+      <UniqueIdentifier>{50bd1710-de60-4bb6-88d0-5e29aefe8cac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Week 7">
+      <UniqueIdentifier>{75c7aada-5bc7-4d73-9a34-e439047ba4d8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Week 9">
+      <UniqueIdentifier>{150281a6-d630-4256-b2e1-69cdc6c040d7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Week 10">
+      <UniqueIdentifier>{704c2fba-1de4-469b-a65f-9b42db623852}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Week 11">
+      <UniqueIdentifier>{976e8263-e72c-437b-8ed1-7efeed342097}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Week 12">
+      <UniqueIdentifier>{a3bf5557-96be-4460-80d8-39c5dc1f5126}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="strutils.cpp">
+      <Filter>Source Files\Week 5</Filter>
+    </ClCompile>
+    <ClCompile Include="randgen.cpp">
+      <Filter>Source Files\Week 7</Filter>
+    </ClCompile>
+    <ClCompile Include="date.cpp">
+      <Filter>Source Files\Week 12</Filter>
+    </ClCompile>
+    <ClCompile Include="dice.cpp">
+      <Filter>Source Files\Week 12</Filter>
+    </ClCompile>
+    <ClCompile Include="account.cpp">
+      <Filter>Source Files\Week 12</Filter>
+    </ClCompile>
+    <ClCompile Include="RQ2-W12.cpp">
+      <Filter>Source Files\Week 12</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="strutils.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="randgen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="account.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="date.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="dice.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="prompt.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="..\student.txt">
+      <Filter>Source Files\Week 10</Filter>
+    </Text>
+    <Text Include="empty.txt">
+      <Filter>Source Files\Week 10</Filter>
+    </Text>
+    <Text Include="input.txt">
+      <Filter>Source Files\Week 10</Filter>
+    </Text>
+    <Text Include="input2.txt">
+      <Filter>Source Files\Week 10</Filter>
+    </Text>
+    <Text Include="data.txt">
+      <Filter>Source Files\Week 11</Filter>
+    </Text>
+    <Text Include="longer_data.txt">
+      <Filter>Source Files\Week 11</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="words.dat">
+      <Filter>Source Files\Week 11</Filter>
+    </None>
+  </ItemGroup>
+</Project>

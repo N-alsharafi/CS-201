@@ -1,0 +1,9 @@
+This is a pencil. But I am not a tomato; actually he is a
+potota salat. WHAT I am WRiTing here is not meaningfull bat it is jast 
+an exemple. 
+
+Here     there  are   sevaral blanks. BuT as you see in the OUTPUT there
+is a single balnk between words.
+
+Now the file endssss. Bye.
+
