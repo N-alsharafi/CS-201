@@ -1,0 +1,6 @@
+﻿  main.cpp
+H:\My Drive\UNIVERSITY\3RD TERM\CS 201\Homework4\Homework4\main.cpp(99,20): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+H:\My Drive\UNIVERSITY\3RD TERM\CS 201\Homework4\Homework4\main.cpp(100,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+H:\My Drive\UNIVERSITY\3RD TERM\CS 201\Homework4\Homework4\main.cpp(103,9): warning C4101: 'price': unreferenced local variable
+H:\My Drive\UNIVERSITY\3RD TERM\CS 201\Homework4\Homework4\main.cpp(138,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Homework4.vcxproj -> H:\My Drive\UNIVERSITY\3RD TERM\CS 201\Homework4\x64\Debug\Homework4.exe
